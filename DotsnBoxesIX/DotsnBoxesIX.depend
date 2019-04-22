@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1555972127 source:c:\users\lucyo\onedrive\documents\confer\dotsnboxesix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<lua.h>
+	<lualib.h>
+	<lauxlib.h>
+
